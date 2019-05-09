@@ -27,4 +27,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Inspiration
 following this project from:
-* [contributors] (https://gist.github.com/PurpleBooth/109311bb0361f32d87a2#file-readme-template-md)
+* [contributors] (https://nickcharlton.net/posts/drawing-animating-shapes-matplotlib.html)
